@@ -1,0 +1,8 @@
+body {
+    background: rgb(88, 101, 203);
+    background: linear-gradient(90deg,rgb(112, 173, 235) 0%,rgba(103,96,213,0.9822303921568627) 
+    53%, rgba(112,173,235) 100%);
+}
+hr
+{display:block; height: 10px; border:0; border-top: 1px solid #ff0000; margin: 1em 0; padding: 0; }
+
